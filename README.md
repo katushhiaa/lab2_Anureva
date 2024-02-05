@@ -12,22 +12,24 @@ P.S. забула його зробити
 ## 2.Створення кнопки і напису, тобто інтерфейсу нашого застоснку
 
 Додано кнопку, та вирівняно її по центру. Текст було розміщено у лівому верхньому куті
-![image](https://github.com/katushhiaa/lab_2_Anureva/assets/113555695/384a4aa0-1822-4724-8e16-6ae1a11af7fc)
+![image](https://github.com/katushhiaa/lab2_Anureva/assets/113555695/c50c1303-aad3-4d77-a245-a5199821b924)
 
 ## 3. Створення змінних для кнопки і тексту, та запам'ятовування їх в методі onCreate
 
-![image](https://github.com/katushhiaa/lab_2_Anureva/assets/113555695/c81f9073-c884-4bd9-b1ae-97e54b0d4130)
+![image](https://github.com/katushhiaa/lab2_Anureva/assets/113555695/8f441aa6-4a1e-4ddb-b744-89919e2e2f20)
 
 
 ## 4.Прописання обробника подій для події натискання кнопки
-![image](https://github.com/katushhiaa/lab_2_Anureva/assets/113555695/47d375f1-016b-407c-862a-540776eda8db)
+![image](https://github.com/katushhiaa/lab2_Anureva/assets/113555695/91d32581-0c23-4e14-9bee-aa524628a718)
 
 ## 5. Трішки вдосноналіший обробник події
 Я просто додала трошки більше варіантів подій (ну мені дуже сподобалась ця тема). І зробила кнопку неактивною після третього кліку на неї.
-![image](https://github.com/katushhiaa/lab_2_Anureva/assets/113555695/fc6b0098-1bd2-41da-a4b4-206afd8d5b87)
+![image](https://github.com/katushhiaa/lab2_Anureva/assets/113555695/5e357b59-e12d-47a6-a84a-1277b500ed15)
 
 ## 6. Результат роботи
 
 
-https://github.com/katushhiaa/lab_2_Anureva/assets/113555695/25c9578a-10ce-45ec-9d1f-052266d8c5ae
+https://github.com/katushhiaa/lab2_Anureva/assets/113555695/ea886626-c318-464d-8df7-337fdaf42d35
+
+
 
